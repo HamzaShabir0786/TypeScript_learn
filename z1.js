@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+=======
+>>>>>>> e0c6d5e2351e4327cf59924d39695063ae9ce106
 //simple function
 function f1() {
     console.log("Hii how are you dear hamza");
@@ -22,17 +25,17 @@ mul(2.2, 6.3);
 function ret(r1, r2) {
     return r1 * r2;
 }
-let log = ret(3, 6);
+var log = ret(3, 6);
 console.log(log);
 function today(t1, t2) {
     return t1 * t2;
 }
-let logo = today(55, 2);
+var logo = today(55, 2);
 console.log(logo);
 function zsoft(z1s, z2s) {
     return z1s + z2s;
 }
-let xsoft = zsoft("My name is ", "Hamza");
+var xsoft = zsoft("My name is ", "Hamza");
 console.log(xsoft);
 //Local local variable exist and create with let or var only in function remember if you creae varibale without var or let in function is called global variable.
 //Function Expression
