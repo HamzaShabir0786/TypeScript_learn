@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let ab = 2;
 let bb = 33;
 let c = ab + bb;

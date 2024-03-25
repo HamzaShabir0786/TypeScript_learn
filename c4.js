@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let first = 789;
 let second = 7690;
 let third = 688;

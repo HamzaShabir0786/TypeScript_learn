@@ -60,3 +60,15 @@ console.log("funtion hoisting here "+ f9)
 function sum(sum1:number, sum2:number){
  return sum1 * sum2;
 }
+
+// //Recursive function
+// function facotorial(n:any){
+//     if(n<1){
+//         return 1;
+//     }
+//     else{
+//         return n * facotorial(n-1)
+//     }
+// }
+// console.log(facotorial(6));
+

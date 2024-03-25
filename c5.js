@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 function half() {
     let cooked = "pizza, egge, ";
     console.log(cooked);
