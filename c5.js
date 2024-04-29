@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 function half() {
     let cooked = "pizza, egge, ";
     console.log(cooked);
@@ -16,3 +14,4 @@ function making(oil, butter, salt) {
 }
 let ready = making(2, 2, 2);
 console.log(ready);
+export {};
