@@ -1,15 +1,22 @@
+// what did learn in class 11 ? 
 //object//
-const myProperties = {
+//nested object//
+//strong type object//  
+
+const myProperties:{
+    nam:string, age:number, rollNo:number, address:string, nested:{lahore:string, nestedObject:string} , isOutFromNestedObject:boolean } = {
     nam:"hamza",
     age:20,
     rollNo:10298,
-    addredd:'Earth',
+    address:'Earth',
     nested: {
         lahore: "city",
         nestedObject: "it's a vlue of nesteb object"},
 
-    ifOutFromNestedObject: "true"    
+    isOutFromNestedObject: true
 }
+
+
 const  userPromt = 'nam';
 console.log(myProperties[userPromt]);
 // console.log(myProperties.userPromt); //output become an error//

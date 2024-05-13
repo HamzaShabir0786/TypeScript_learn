@@ -3,7 +3,7 @@ const myProperties = {
     nam: "hamza",
     age: 20,
     rollNo: 10298,
-    addredd: 'Earth',
+    address: 'Earth',
     nested: {
         lahore: "city",
         nestedObject: "it's a vlue of nesteb object"
