@@ -12,8 +12,10 @@
 // }
 
 
-let arr: string[] = ["lahore", "karachi", "sarghoda", "pasroor", "multan", "daska", "sialkot"];
+// let arr: string[] = ["lahore", "karachi", "sarghoda", "pasroor", "multan", "daska", "sialkot"];
 
-for (let d of arr) {
-    console.log(d);
-}
+// for (let d of arr) {
+//     console.log(d);
+// }
+
+

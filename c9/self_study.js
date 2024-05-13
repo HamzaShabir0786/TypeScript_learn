@@ -50,8 +50,8 @@ console.log(eight);
 console.log(eight.includes('mango')); //it's return true then "mango " include in array
 console.log(eight.includes('mango', 0)); //it's return true the "mango" at 0 index. 
 console.log("includes() method end here"); //Note: it's doesn't check number datatype's index number.
-//9- find() - Returns the value of the first element in the provided array that satisfies the provided testing function. 
-let nine = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-let nn = nine.find(1);
-console.log(nn);
 export {};
+//9- find() - Returns the value of the first element in the provided array that satisfies the provided testing function. 
+// let nine = [1,2,3,4,5,6,7,8,9,10];
+// let nn = nine.find();
+// console.log(nn)
