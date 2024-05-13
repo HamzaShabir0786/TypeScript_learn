@@ -1,4 +1,7 @@
+// what did learn in class 11 ? 
 //object//
+//nested object//
+//strong type object//  
 const myProperties = {
     nam: "hamza",
     age: 20,
@@ -8,7 +11,7 @@ const myProperties = {
         lahore: "city",
         nestedObject: "it's a vlue of nesteb object"
     },
-    ifOutFromNestedObject: "true"
+    isOutFromNestedObject: true
 };
 const userPromt = 'nam';
 console.log(myProperties[userPromt]);
