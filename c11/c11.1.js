@@ -1,4 +1,4 @@
-//Union 
+//Union literals
 let rollNo;
 rollNo = "PIAIC-001242";
 rollNo = 123456789;

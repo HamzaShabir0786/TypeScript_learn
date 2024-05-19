@@ -27,8 +27,8 @@ console.log(ff);
 console.log(forth);
 console.log("unshift method end here");
 //5- splice() - Adds and/or removes elements from an array.
-let fifth = ['mango', 'banana', "banana", 'watermellon'];
-let ff2 = fifth.splice(1, 1, "hello", 'dear');
+let fifth = ['mango', 'banana', "Apple", 'watermellon'];
+let ff2 = fifth.splice(1, 2, "hello", 'dear');
 console.log(fifth);
 console.log(ff2);
 console.log(fifth);

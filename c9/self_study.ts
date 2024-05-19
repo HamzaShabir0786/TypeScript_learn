@@ -24,7 +24,7 @@ console.log(third)
 console.log("shift method end here")
 
 //4- unshift() - Adds one or more elements to the beginning of an array and returns the new length.
-let forth = ["one",'two','three','four']
+let forth:string[] = ["one",'two','three','four']
 let ff = forth.unshift("unshift one")
 console.log(forth)
 console.log(ff)
@@ -32,8 +32,8 @@ console.log(forth)
 console.log("unshift method end here")
 
 //5- splice() - Adds and/or removes elements from an array.
-let fifth = ['mango', 'banana', "banana", 'watermellon']
-let ff2= fifth.splice(1,1,"hello", 'dear')
+let fifth = ['mango', 'banana', "Apple", 'watermellon']
+let ff2= fifth.splice(1,2,"hello", 'dear')
 console.log(fifth)
 console.log(ff2)
 console.log(fifth)
@@ -60,6 +60,4 @@ console.log(eight.includes('mango', 0)) //it's return true the "mango" at 0 inde
 console.log("includes() method end here")//Note: it's doesn't check number datatype's index number.
 
 //9- find() - Returns the value of the first element in the provided array that satisfies the provided testing function. 
-// let nine = [1,2,3,4,5,6,7,8,9,10];
-// let nn = nine.find();
-// console.log(nn)
+let nineAges = [1,2,5,13,15,18,22];
