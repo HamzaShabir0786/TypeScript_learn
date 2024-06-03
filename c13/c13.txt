@@ -1,0 +1,4 @@
+Home work const enum.
+difference between enum and const enum.
+typecasting
+optional parameters and default parameters
