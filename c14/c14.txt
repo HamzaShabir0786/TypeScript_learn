@@ -1,4 +1,5 @@
 what did we learn in class 14 ?
 1.. synchronous VS Asynchronous.
 2.. Arrow function.
-3..Call back function.
+3.. Call back function.
+

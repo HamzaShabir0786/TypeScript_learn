@@ -61,3 +61,5 @@ console.log("includes() method end here")//Note: it's doesn't check number datat
 
 //9- find() - Returns the value of the first element in the provided array that satisfies the provided testing function. 
 let nineAges = [1,2,5,13,15,18,22];
+let adultAge = 18;
+nineAges>=adultAge

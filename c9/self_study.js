@@ -52,4 +52,6 @@ console.log(eight.includes('mango', 0)); //it's return true the "mango" at 0 ind
 console.log("includes() method end here"); //Note: it's doesn't check number datatype's index number.
 //9- find() - Returns the value of the first element in the provided array that satisfies the provided testing function. 
 let nineAges = [1, 2, 5, 13, 15, 18, 22];
+let adultAge = 18;
+nineAges >= adultAge;
 export {};
